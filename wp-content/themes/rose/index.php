@@ -2,8 +2,8 @@
     <?php get_header();?> 
     <div class="row">
             <div class="col-md-12 welcome">
-             <h2>Find your balance </h2>
-             <h4>Namast&#233;</h4>
+             <h2><?php bloginfo('name')?></h2>
+             <h4><?php bloginfo('description')?></h4>
          </div>
      </div>
    </div>
