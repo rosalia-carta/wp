@@ -7,14 +7,14 @@
 }
 
 .jumbotron {
-    background: url(../images/bg.jpg);
+    background: url(./images/bg.jpg);
     background-size: cover;
     min-height: 850px;
     padding-top: 10px;
 }
 
 .navbar-brand {
-    background: url(../images/brand.png) no-repeat;
+    background: url(./images/brand.png) no-repeat;
     width: 180px;
     height: 140px;
 }
