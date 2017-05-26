@@ -12,12 +12,11 @@
    <h3>e ti risponderemo al più presto</h3>
  </div>
  </div>
- </div>
+
  
  <form class="form-contats">
    <div class="row">
-     <!--start contats -->
-     <div class="col-md-6">
+        <div class="col-md-6">
       <div class="form-group">
         
  <label for="exampleInputEmail1">Indirizzo email</label>
