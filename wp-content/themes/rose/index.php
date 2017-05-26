@@ -20,8 +20,8 @@
             <div class="form-group">
              
 
-             <!--<label for="exampleInputEmail1">Indirizzo Email</label>
-             <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Please type yuor Email" required>-->
+           <label for="exampleInputEmail1">Indirizzo Email</label>
+             <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Please type yuor Email" required>
 
 <!-- <label for="exampleInputEmail1">Indirizzo email</label>
                     <div class="input-group">
