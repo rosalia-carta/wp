@@ -6,7 +6,8 @@
              <h4><?php bloginfo('description')?></h4>
          </div>
      </div>
- 
+  </div>
+ </div>
  
  <div class="container-fluid" id="contat">
        <div class="row text-center">
