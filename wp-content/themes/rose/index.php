@@ -1,5 +1,5 @@
   
-  <?php get_header(); ?>
+ <?php get_header(); ?>
 <div class="row">
     <div class="col-md-12 welcome">
         <h1><?php bloginfo('name') ?></h1>
@@ -11,16 +11,30 @@
 
 <div class="row" id="contact">
     <div class="col-lg-12 text-center">
-      <h1>Contact us</h1>
-      <h2>to receive a sweet gift</h2>
+      <h1>Contattaci</h1>
+      <h2>e ti risponderemo al più presto</h2>
     </div>
   </div>
   <div class="row">
-    <form class="paola-form">
+    <form class="form-contats">
       <div class="col-md-6">
         <div class="form-group">
-          <label for="exampleInputEmail1">Email address</label>
-          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Please, type here your email address" required autofocus>
+            <label for="exampleInputEmail1">Email address</label>
+
+<div class="input-group">
+          <span class="input-group-addon" id="basic-addon1"><i class="glyphicon glyphicon-envelope"></i></span>
+          <input name="email" type="email" class="form-control input-lg" id="exampleInputEmail1" placeholder="Digita qui la tua email" required>
+        </div>
+
+
+
+
+
+    <!--      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Please, type here your email address" required autofocus>
+-->
+
+
+
         </div>
         <div class="form-group">
           <label for="exampleInputPassword1">Password</label>
@@ -38,3 +52,4 @@
   </div>
 </div>
 <?php get_footer(); ?>
+
