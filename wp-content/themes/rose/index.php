@@ -33,7 +33,7 @@
       </div>
     </div>
     <div class="col-md-6">
-      <label for="exampleInputPassword1">Message</label>
+      <label for="exampleInputPassword1">Messagio</label>
       <textarea class="form-control" placeholder="Please, write a message" rows="3"></textarea>
     </div>
     <div class="col-md-12 text-center">
