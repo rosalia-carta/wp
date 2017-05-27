@@ -9,7 +9,7 @@
 .jumbotron {
     background: url(./images/bg.jpg);
     background-size: cover;
-    min-height: 850px;
+    min-height: 600px;
     padding-top: 10px;
 }
 
