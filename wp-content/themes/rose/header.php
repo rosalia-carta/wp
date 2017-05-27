@@ -5,13 +5,11 @@
   <title>Yoga per tutti</title>
    <?php wp_head();?> 
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
 </head>
 <body>
   <div class="jumbotron">
     <div class="container">    
-    
-    <nav class="navbar navbar-default">
+        <nav class="navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
